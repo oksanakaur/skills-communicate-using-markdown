@@ -8,3 +8,6 @@
   alert("Hooray!");
 }
 '''
+- [ ] Turn on GitHub Pages
+- [ ] Outline my protfolio
+- [ ] Introduce myself to the world
